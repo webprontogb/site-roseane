@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/site-roseane/static/css/main.e6c13ad2.css",
-    "main.js": "/site-roseane/static/js/main.b3f5b059.js",
-    "static/js/453.decbf570.chunk.js": "/site-roseane/static/js/453.decbf570.chunk.js",
-    "static/media/logo-roseane.jpg": "/site-roseane/static/media/logo-roseane.618ee6d46be900a9fae4.jpg",
-    "index.html": "/site-roseane/index.html",
-    "main.e6c13ad2.css.map": "/site-roseane/static/css/main.e6c13ad2.css.map",
-    "main.b3f5b059.js.map": "/site-roseane/static/js/main.b3f5b059.js.map",
-    "453.decbf570.chunk.js.map": "/site-roseane/static/js/453.decbf570.chunk.js.map"
+    "main.css": "/agenda/static/css/main.e6c13ad2.css",
+    "main.js": "/agenda/static/js/main.78ddf6f3.js",
+    "static/js/453.decbf570.chunk.js": "/agenda/static/js/453.decbf570.chunk.js",
+    "static/media/logo-roseane.jpg": "/agenda/static/media/logo-roseane.618ee6d46be900a9fae4.jpg",
+    "index.html": "/agenda/index.html",
+    "main.e6c13ad2.css.map": "/agenda/static/css/main.e6c13ad2.css.map",
+    "main.78ddf6f3.js.map": "/agenda/static/js/main.78ddf6f3.js.map",
+    "453.decbf570.chunk.js.map": "/agenda/static/js/453.decbf570.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b3f5b059.js"
+    "static/js/main.78ddf6f3.js"
   ]
 }
